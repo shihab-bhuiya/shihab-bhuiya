@@ -5,6 +5,9 @@
 <h3 align="center">
 Frontend Developer specializing in Next.js & React
 </h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Frontend+Developer;Next.js+%26+React+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies" alt="Typing Animation" />
+</p>
 
 <p align="center">
 I build fast, responsive, and user-friendly web applications using modern frontend technologies.
