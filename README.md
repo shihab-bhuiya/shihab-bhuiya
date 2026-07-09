@@ -13,3 +13,84 @@ Frontend Developer specializing in Next.js & React
 I build fast, responsive, and user-friendly web applications using modern frontend technologies.
 Currently learning advanced React patterns, Next.js, and backend development to become a full-stack engineer.
 </p>
+
+# 🚀 About Me
+
+I'm a passionate Frontend Developer from Bangladesh who enjoys building fast, responsive, and user-friendly web applications.
+
+I specialize in **React** and **Next.js**, and I'm continuously learning modern web technologies to create scalable applications.
+
+Currently, I'm expanding my knowledge in backend development with **Node.js**, **Express.js**, and **MongoDB** while strengthening my problem-solving skills through Data Structures & Algorithms.
+
+---
+
+# 🌱 Current Activities
+
+- 🚀 Exploring Next.js App Router
+- 💻 Building production-ready web applications
+- 📚 Learning TypeScript
+- ⚡ Practicing Data Structures & Algorithms
+- 🎯 Preparing for international Frontend Developer opportunities
+
+---
+
+# 💻 Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,postman" />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/shihab-bhuiya">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://linkedin.com/in/shihab-bhuiya">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:shihab.bhuiya07@gmail.com">
+<img src="https://img.icons8.com/color/48/gmail-new.png" width="48"/>
+</a>
+
+</p>
+
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🌍 Tourism Website | Modern tourism booking platform |
+| 🌱 Plant Care Tracker | Manage and monitor plant collections |
+| 💼 Portfolio Website | Personal portfolio built with Next.js |
+
+---
+
+# 💬 Favorite Quote
+
+> "Always learning. Always building."
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=shihab-bhuiya&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
